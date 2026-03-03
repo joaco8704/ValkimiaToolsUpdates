@@ -5,17 +5,17 @@
     {
       "id": 101,
       "tipo": "info",
-      "texto": "Bienvenido a la nueva versión. Hemos cambiado los colores."
+      "texto": "Bienvenido a la <b>nueva versión</b>. <br>Hemos cambiado los colores y agregado soporte para <i>modo oscuro</i>."
     },
     {
       "id": 102,
       "tipo": "warn",
-      "texto": "Atención: El servicio de reportes estará lento mañana por mantenimiento."
+      "texto": "Atención: El servicio de reportes estará lento. <a href='https://estado.tuapp.com' target='_blank'>Ver estado del servicio</a>."
     },
     {
       "id": 103,
       "tipo": "critical",
-      "texto": "Urgente: Actualice su clave fiscal antes del viernes."
+      "texto": "<b>URGENTE:</b> Actualice su clave fiscal. <br><ul><li>Vence el viernes</li><li>Evite bloqueos</li></ul>"
     }
   ]
 }
