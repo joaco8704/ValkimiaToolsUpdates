@@ -1,4 +1,21 @@
 {
   "version": "1.0.0_20260227",
-  "fecha": "2026-02-27"
+  "fecha": "2026-02-27",
+  "mensajes": [
+    {
+      "id": 101,
+      "tipo": "info",
+      "texto": "Bienvenido a la nueva versión. Hemos cambiado los colores."
+    },
+    {
+      "id": 102,
+      "tipo": "warn",
+      "texto": "Atención: El servicio de reportes estará lento mañana por mantenimiento."
+    },
+    {
+      "id": 103,
+      "tipo": "critical",
+      "texto": "Urgente: Actualice su clave fiscal antes del viernes."
+    }
+  ]
 }
