@@ -1,4 +1,10 @@
 {
   "version": "1.0.0_20260228",
-  "fecha": "2026-02-27"
+  "fecha": "2026-02-27",
+  "mensajes": [
+    {
+      "id": 101,
+      "tipo": "info",
+      "texto": "Bienvenido a la <b>nueva versión</b>. <br>Hemos cambiado los colores y agregado soporte para <i>modo oscuro</i>."
+    }]
 }
